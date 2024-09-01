@@ -25,7 +25,6 @@ I'm eager to dive deeper into Python, DevOps, and Web Development. My next big s
 - **Animals**
 - **Gardening**
 
-### ✨ Fun Fact
 **"My biggest strength is not that I know everything, but the confidence that I can figure things out."**  
 *#WomenInTech💪*
 
