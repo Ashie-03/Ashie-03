@@ -5,13 +5,13 @@ Hola! I'm a passionate **Software Engineer** from India. My journey in tech has 
 ### 🎓 Education
 - **Psychology** graduate
 - **CFGDegree**: Summer '24 Software or Data Engineering Stream
-- **Currently**: CFG +Masters in DevOps & Cloud
+- **CFG +Masters**: DevOps & Cloud
 
 ### 💻 Tech Stack
 - **Languages**: Python, JavaScript
 - **Web Development**: Flask, HTML, CSS
 - **Databases**: MySQL
-- **Tools**: Git & GitHub
+- **Tools**: Git & GitHub, Docker, AWS, Kubernetes
 - **Concepts**: OOP, DSA, APIs, DevOps, Cloud
 
 ### 🚀 Projects
